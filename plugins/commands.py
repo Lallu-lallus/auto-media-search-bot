@@ -81,7 +81,7 @@ async def start(bot, cmd):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("𝗝𝗼𝗶𝗻 𝗼𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹", url=https://t.me/cinemaheavensupport")
+                        InlineKeyboardButton("𝗝𝗼𝗶𝗻 𝗼𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹", "url=https://t.me/cinemaheavensupport")
                     ]
                 ]
             )
