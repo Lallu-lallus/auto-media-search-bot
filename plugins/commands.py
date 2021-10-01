@@ -95,7 +95,7 @@ async def start(bot, cmd):
                 [
                
                     [
-                        InlineKeyboardButton("𝗷𝗼𝗶𝗻 𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽", url=https://t.me/cinemaheavens)
+                        InlineKeyboardButton("𝗷𝗼𝗶𝗻 𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽", "url=https://t.me/cinemaheavens")
                     ]
                 ]
             )
